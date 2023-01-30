@@ -1,13 +1,18 @@
 # .NET, IoT and Hedgehogs! 🦔
 Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
-[www.macclesfieldhedgehogs.co.uk](https://www.macclesfieldhedgehogs.co.uk/)
+**Website**  
+🌍 [www.macclesfieldhedgehogs.co.uk](https://www.macclesfieldhedgehogs.co.uk/)
 
-![.NET, Iot and Hedgehogs!](dotnet-iot-and-hedgehogs.png)
+**Blogs**  
+📖 [.NET, IoT and Hedgehogs!](https://www.mike-irving.co.uk/web-design-blog/?blogid=122)  
+📖 [Hedgehog System Evolution!](https://www.mike-irving.co.uk/web-design-blog/?blogid=123)  
 
 ## Forthcoming Talks
 📅 Jan 31st 2023 - **Dot Net North** - [Meetup](https://www.meetup.com/dotnetnorth/events/290851422/) - [Slides](https://github.com/mikeirvingweb/dotnetconf22-windows/raw/main/presentation/2022-11-22-Mike-Irving-Windows.pptx)  
 📅 Feb 2nd 2023 - **Macc Tech** - [Meetup](https://www.meetup.com/macctech/events/288873927/)  
+
+![.NET, Iot and Hedgehogs!](dotnet-iot-and-hedgehogs.png)
 
 ## Code Repositories
 
