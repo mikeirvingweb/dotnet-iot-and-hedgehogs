@@ -1,4 +1,4 @@
-# .NET, Iot and Hedgehogs! 🦔
+# .NET, IoT and Hedgehogs! 🦔
 Presentation repo for my .NET, IoT and Hedgehogs talks
 
 [www.macclesfieldhedgehogs.co.uk](https://www.macclesfieldhedgehogs.co.uk/)
