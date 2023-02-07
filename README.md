@@ -9,7 +9,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📖 [Hedgehog System Evolution!](https://www.mike-irving.co.uk/web-design-blog/?blogid=123)  
 
 ## Forthcoming Talks
-⏰ To be announced  
+📅 Feb 28th 2023 - **Dot Net Liverpool** - [Meetup](https://www.meetup.com/dot-net-liverpool/events/291461997/) 
 
 ## Past Talks  
 📅 Feb 2nd 2023 - **Macc Tech** - [Meetup](https://www.meetup.com/macctech/events/288873927/) - [Slides](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs/raw/main/presentations/2023/2023-02-02-macc-tech/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
