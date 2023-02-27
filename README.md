@@ -38,6 +38,8 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📶 [SimpleWifi.netstandard](https://www.nuget.org/packages/SimpleWifi.netstandard/)  
 🔵 [InTheHand.BluetoothLE](https://www.nuget.org/packages/InTheHand.BluetoothLE) from [Peter Foot](twitter.com/PeterFoot)  
 📼 [Xabe.FFmpeg](https://www.nuget.org/packages/Xabe.FFmpeg)  
+🖼️ [SixLabors.ImageSharp](https://www.nuget.org/packages/SixLabors.ImageSharp)  
+🔍 [ImageSharpCompare](https://www.nuget.org/packages/ImageSharpCompare/)  
 
 **FFmpeg**  
 📼 [FFmpeg project website](https://ffmpeg.org/)
@@ -45,7 +47,8 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 **AWS Resources**  
 🪣 [AWS S3 Examples for .NET](https://github.com/awsdocs/aws-doc-sdk-examples/tree/main/dotnetv3/S3)  
 📼 [ffmpeg-lambda-layer](https://serverlessrepo.aws.amazon.com/applications/us-east-1/145266761615/ffmpeg-lambda-layer)  
-🧩 [Building Lambda functions with C#](https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html)
+🧩 [Building Lambda functions with C#](https://docs.aws.amazon.com/lambda/latest/dg/lambda-csharp.html)  
+🔬 [Amazon Rekognition](https://aws.amazon.com/rekognition/)  
 
 **.NET Advent Calendar**  
 🎄 [2022 Calendar](https://dotnet.christmas/2022)  
