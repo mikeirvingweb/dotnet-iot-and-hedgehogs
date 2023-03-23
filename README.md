@@ -7,6 +7,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 **Blogs**  
 📖 [.NET, IoT and Hedgehogs!](https://www.mike-irving.co.uk/web-design-blog/?blogid=122)  
 📖 [Hedgehog System Evolution!](https://www.mike-irving.co.uk/web-design-blog/?blogid=123)  
+📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
 ⏰ To be announced  
