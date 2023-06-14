@@ -12,6 +12,8 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 ## Forthcoming Talks
 📅 Jun 29th 2023 - **Leeds Sharp** - [Meetup](https://www.meetup.com/leeds-sharp/events/293228795)  
 
+📅 Aug 1st 2023 - **dotnetsheff** - [Meetup](https://www.meetup.com/dotnetsheff/events/294085807/)  
+
 ## Past Talks  
 📅 Feb 28th 2023 - **Dot NET Liverpool** - [Meetup](https://www.meetup.com/dot-net-liverpool/events/291461997/) - [Slides](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs/raw/main/presentations/2023/2023-02-28-dot-net-liverpool/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
