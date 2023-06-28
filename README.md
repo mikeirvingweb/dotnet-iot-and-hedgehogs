@@ -10,7 +10,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-📅 Jun 29th 2023 - **Leeds Sharp** - [Meetup](https://www.meetup.com/leeds-sharp/events/293228795)  
+📅 Jun 29th 2023 - **Leeds Sharp** - [Meetup](https://www.meetup.com/leeds-sharp/events/293228795) - [Slides](https://github.com/mikeirvingweb/dotnet-iot-and-hedgehogs/raw/main/presentations/2023/2023-06-29-leeds-sharp/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Aug 1st 2023 - **dotnetsheff** - [Meetup](https://www.meetup.com/dotnetsheff/events/294085807/)  
 
