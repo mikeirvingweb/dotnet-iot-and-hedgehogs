@@ -10,11 +10,11 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-📅 Aug 1st 2023 - **dotnetsheff** - [Meetup](https://www.meetup.com/dotnetsheff/events/294085807/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-08-01-dotnetsheff/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
-
 📅 Aug 15th 2023 - **.NET South West** - [Meetup](https://www.meetup.com/dotnetsouthwest/events/295066920/)  
 
 ## Past Talks  
+📅 Aug 1st 2023 - **dotnetsheff** - [Meetup](https://www.meetup.com/dotnetsheff/events/294085807/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-08-01-dotnetsheff/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
+
 📅 Jun 29th 2023 - **Leeds Sharp** - [Meetup](https://www.meetup.com/leeds-sharp/events/293228795) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-06-29-leeds-sharp/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Feb 28th 2023 - **Dot NET Liverpool** - [Meetup](https://www.meetup.com/dot-net-liverpool/events/291461997/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-02-28-dot-net-liverpool/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
