@@ -27,7 +27,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
 ## Recorded Version
 
-🍿 From Aug 1st 2023 @ **dotnetsheff** [YouTube](https://www.youtube.com/watch?v=9EBAIZkUXL8)  
+🍿 From Aug 1st 2023 @ **dotnetsheff** - [YouTube](https://www.youtube.com/watch?v=9EBAIZkUXL8)  
 
 [![dotnetsheff: .NET, Iot and Hedgehogs!](dotnet-iot-and-hedgehogs-youtube.png)](https://www.youtube.com/watch?v=9EBAIZkUXL8)
 
