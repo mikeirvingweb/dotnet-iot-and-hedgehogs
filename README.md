@@ -25,7 +25,11 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
 📅 Jan 31st 2023 - **Dot Net North** - [Meetup](https://www.meetup.com/dotnetnorth/events/290851422/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-01-31-dot-net-north/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
-![.NET, Iot and Hedgehogs!](dotnet-iot-and-hedgehogs.png)
+## Recorded Version
+
+🍿 From Aug 1st 2023 @ **dotnetsheff** [YouTube](https://www.youtube.com/watch?v=9EBAIZkUXL8)  
+
+[![dotnetsheff: .NET, Iot and Hedgehogs!](dotnet-iot-and-hedgehogs-youtube.png)](https://www.youtube.com/watch?v=9EBAIZkUXL8)
 
 ## Code Repositories
 
