@@ -2,7 +2,7 @@
 Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
 **Website**  
-🌍 [www.macclesfieldhedgehogs.co.uk](https://www.macclesfieldhedgehogs.co.uk/)
+🌍 [mikeirvingweb.github.io/macclesfield-hedgehogs](https://mikeirvingweb.github.io/macclesfield-hedgehogs/)
 
 **Blogs**  
 📖 [.NET, IoT and Hedgehogs!](https://www.mike-irving.co.uk/web-design-blog/?blogid=122)  
