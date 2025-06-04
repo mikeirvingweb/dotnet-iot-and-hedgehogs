@@ -51,7 +51,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
 **NuGet Packages**   
 📶 [SimpleWifi.netstandard](https://www.nuget.org/packages/SimpleWifi.netstandard/)  
-🔵 [InTheHand.BluetoothLE](https://www.nuget.org/packages/InTheHand.BluetoothLE) from [Peter Foot](twitter.com/PeterFoot)  
+🔵 [InTheHand.BluetoothLE](https://www.nuget.org/packages/InTheHand.BluetoothLE) from [Peter Foot](https://bsky.app/profile/peterfoot.net)  
 📼 [Xabe.FFmpeg](https://www.nuget.org/packages/Xabe.FFmpeg)  
 🖼️ [SixLabors.ImageSharp](https://www.nuget.org/packages/SixLabors.ImageSharp)  
 🔍 [ImageSharpCompare](https://www.nuget.org/packages/ImageSharpCompare/)  
@@ -66,12 +66,12 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 🔬 [Amazon Rekognition](https://aws.amazon.com/rekognition/)  
 
 **.NET Advent Calendar**  
-🎄 [2022 Calendar](https://dotnet.christmas/2022)  
-❄️ [Day 5 Entry](https://dotnet.christmas/2022/5)  
+🎄 [2022 Calendar](https://dotnet.christmas/2022)  (content now offline)  
+❄️ [Day 5 Entry](https://dotnet.christmas/2022/5)  (content now offline)  
 
 **Raspberry Pi**  
 🍓 [Raspberry Pi Imager](https://www.raspberrypi.com/software/)  
-📔 [Microsoft Learn - Deploy .NET apps to Raspberry Pi](https://learn.microsoft.com/en-us/dotnet/iot/deployment)  
+📔 [Microsoft Learn - Deploy .NET apps to Raspberry Pi](https://learn.microsoft.com/en-us/dotnet/iot/deployment?WT.mc_id=MVP_307078)  
 💻 [Dot Net 7 with the Raspberry Pi](https://github.com/pjgpetecodes/dotnet7pi) from [Pete Gallagher](twitter.com/pete_codes)  
 
 ---
