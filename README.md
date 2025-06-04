@@ -10,10 +10,10 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-⏰ To be announced  
+📅 Jul 31st 2025 - **Staffs Web Meetup** - [Website](https://www.meetup.com/staffswebmeetup/events/305475184/) - Slides to follow  
 
 ## Past Talks  
-📅 Oct 31st 2023 - **Manchester Tech Festival** - [Website](https://www.manchestertechfestival.co.uk/software-engineering-tech-quality/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-10-31-manchester-tech-festival/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
+📅 Oct 31st 2023 - **Manchester Tech Festival** - [Website](https://www.manchestertechfestival.co.uk/software-engineering-tech-quality/) (content now offline) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-10-31-manchester-tech-festival/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Aug 15th 2023 - **.NET South West** - [Meetup](https://www.meetup.com/dotnetsouthwest/events/295066920/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-08-15-.net-south-west/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
