@@ -35,7 +35,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
 🍿 From Sep 29th 2025 @ **.NET Notts (online)** - [YouTube](https://www.youtube.com/watch?v=Sc6QLeWbtUs&t=42s)  
 
-[![.NET Notts: .NET, IoT and Hedgehogs!](dotnet-iot-and-hedgehogs-dot-net-notts-youtube.png)](https://www.youtube.com/watch?v=9EBAIZkUXL8)  
+[![.NET Notts: .NET, IoT and Hedgehogs!](dotnet-iot-and-hedgehogs-dot-net-notts-youtube.png)](https://www.youtube.com/watch?v=Sc6QLeWbtUs&t=42s)  
 
 🍿 From Aug 1st 2023 @ **dotnetsheff** - [YouTube](https://www.youtube.com/watch?v=9EBAIZkUXL8)  
 
