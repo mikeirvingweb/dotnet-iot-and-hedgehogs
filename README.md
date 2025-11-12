@@ -1,8 +1,10 @@
 # .NET, IoT and Hedgehogs! 🦔
 Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
-**Website**  
-🌍 [mikeirvingweb.github.io/macclesfield-hedgehogs](https://mikeirvingweb.github.io/macclesfield-hedgehogs/)
+![.NET, IoT and Hedgehogs!](dotnet-iot-and-hedgehogs.png)
+
+**Macclesfield Hedgehogs website**  
+🦔 [mikeirvingweb.github.io/macclesfield-hedgehogs](https://mikeirvingweb.github.io/macclesfield-hedgehogs/)
 
 **Blogs**  
 📖 [.NET, IoT and Hedgehogs!](https://www.mike-irving.co.uk/web-design-blog/?blogid=122)  
@@ -34,6 +36,10 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📅 Jan 31st 2023 - **Dot Net North** - [Meetup](https://www.meetup.com/dotnetnorth/events/290851422/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-01-31-dot-net-north/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 ## Recorded Versions  
+
+🍿 From Nov 4th 2025 @ **Chester Devs** - [YouTube](https://www.youtube.com/watch?v=cyi4ciApaBs&t=26s)  
+
+[![Chester Devs: .NET, IoT and Hedgehogs!](dotnet-iot-and-hedgehogs-chester-devs-youtube.png)](https://www.youtube.com/watch?v=cyi4ciApaBs&t=26s)  
 
 🍿 From Sep 29th 2025 @ **.NET Notts (online)** - [YouTube](https://www.youtube.com/watch?v=Sc6QLeWbtUs&t=42s)  
 
