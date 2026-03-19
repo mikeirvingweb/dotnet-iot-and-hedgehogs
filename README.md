@@ -12,7 +12,7 @@ Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-⏰ To be announced  
+📅 May 14th 2026 - **Weblica, Croatia** - [Website](https://weblica.hr/en/)  
 
 ## Past Talks  
 📅 Nov 4th 2025 - **Chester Devs** - [Website](https://www.eventbrite.co.uk/e/net-iot-and-hedgehogs-mike-irving-tickets-1761040753299) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2025/2025-11-04-chester-devs/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
