@@ -1,6 +1,14 @@
 # .NET, IoT and Hedgehogs! 🦔
 Presentation repo for my _.NET, IoT and Hedgehogs!_ talks
 
+**Talk Description:**  
+
+Using C# / .NET Technologies and IoT to curate and automate video footage of garden hedgehogs.  
+
+An experimental journey through device access, cloud storage, serverless functions, and a public website.  
+
+With an insight into problem-solving changes necessary to bring the code cross-platform to run on Linux on a Raspberry Pi.  
+
 ![.NET, IoT and Hedgehogs!](dotnet-iot-and-hedgehogs.png)
 
 **Macclesfield Hedgehogs website**  
