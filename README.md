@@ -20,7 +20,7 @@ With an insight into problem-solving changes necessary to bring the code cross-p
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-📅 May 14th 2026 - **Weblica, Croatia** - [Website](https://weblica.hr/en/)  
+📅 May 14th 2026 - **Weblica, Croatia** - [Website](https://weblica.hr/en/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2026/2026-05-14-weblica/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Aug 12th 2026 - **Birmingham .Net & MAUI User Group** - [Meetup](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
 
