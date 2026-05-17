@@ -20,11 +20,11 @@ With an insight into problem-solving changes necessary to bring the code cross-p
 📖 [Hedgehog Hardware and Detection](https://www.mike-irving.co.uk/web-design-blog/?blogid=124)  
 
 ## Forthcoming Talks
-📅 May 14th 2026 - **Weblica, Croatia** - [Website](https://weblica.hr/en/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2026/2026-05-14-weblica/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
-
 📅 Aug 12th 2026 - **Birmingham .Net & MAUI User Group** - [Meetup](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/313959986/)  
 
 ## Past Talks  
+📅 May 14th 2026 - **Weblica, Croatia** - [Website](https://weblica.hr/en/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2026/2026-05-14-weblica/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
+
 📅 Nov 4th 2025 - **Chester Devs** - [Eventbrite](https://www.eventbrite.co.uk/e/net-iot-and-hedgehogs-mike-irving-tickets-1761040753299) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2025/2025-11-04-chester-devs/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Sep 29th 2025 - **Dot Net Notts** - [Meetup](https://www.meetup.com/dotnetnotts/events/310952570/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2025/2025-09-29-.net-notts/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
