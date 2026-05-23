@@ -31,7 +31,7 @@ With an insight into problem-solving changes necessary to bring the code cross-p
 
 📅 Jul 31st 2025 - **Staffs Web Meetup** - [Meetup](https://www.meetup.com/staffswebmeetup/events/305475184/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2025/2025-07-31-staffs-web-meetup/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
-📅 Oct 31st 2023 - **Manchester Tech Festival** - [Website](https://www.manchestertechfestival.co.uk/software-engineering-tech-quality/) (content now offline) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-10-31-manchester-tech-festival/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
+📅 Oct 31st 2023 - **Manchester Tech Festival** - Website content now offline - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-10-31-manchester-tech-festival/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Aug 15th 2023 - **.NET South West** - [Meetup](https://www.meetup.com/dotnetsouthwest/events/295066920/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-08-15-.net-south-west/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
@@ -41,7 +41,7 @@ With an insight into problem-solving changes necessary to bring the code cross-p
 
 📅 Feb 28th 2023 - **Dot NET Liverpool** - [Meetup](https://www.meetup.com/dot-net-liverpool/events/291461997/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-02-28-dot-net-liverpool/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
-📅 Feb 2nd 2023 - **Macc Tech** - [Meetup](https://www.meetup.com/macctech/events/288873927/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-02-02-macc-tech/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
+📅 Feb 2nd 2023 - **Macc Tech** - [Website](https://www.macctech.co.uk/events/20230202) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-02-02-macc-tech/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
 📅 Jan 31st 2023 - **Dot Net North** - [Meetup](https://www.meetup.com/dotnetnorth/events/290851422/) - [Slides](https://mikeirvingweb.s3.amazonaws.com/dotnet-iot-and-hedgehogs/presentations/2023/2023-01-31-dot-net-north/mike-irving-dotnet-iot-and-hedgehogs.pptx)  
 
